@@ -25,11 +25,4 @@ Sou desenvolvedor backend e DevOps, trabalho atualmente na empresa [Ezops](https
       src="https://github-readme-stats.vercel.app/api?username=cafesao&theme=dracula&show_icons=true"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafesao&theme=dracula&show_icons=true"
-    />
-  </a>
 </p>
