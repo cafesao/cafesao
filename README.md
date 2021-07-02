@@ -22,11 +22,11 @@ Sou desenvolvedor backend e DevOps, trabalho atualmente na empresa [Ezops](https
 - 📫 &nbsp; Mande um e-mail: gabriel.diasdutra2@gmail.com
 - 💙 &nbsp; Eu amo Games 👾, Gatos (Gatinho 🐱) e Estudar 💻.
 
-<p align="center">
+<p align="center"
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=cafesao&theme=dracula&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=cafesao&theme=dracula&show_icons=true&locale=pt-br"
     />
   </a>
 </p>
