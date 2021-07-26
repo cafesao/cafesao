@@ -12,7 +12,7 @@
 
 ### Sobre mim...
 
-Sou desenvolvedor backend e DevOps, trabalho atualmente na empresa [Ezops](https://ezops.cloud/)
+Sou desenvolvedor Backend e DevOps, trabalho atualmente na empresa [Ezops](https://ezops.cloud/)
 
 ### Fatos
 
