@@ -14,7 +14,7 @@ Sou desenvolvedor Full Stack e DevOps, trabalho atualmente na empresa [Ezops](ht
 
 ### Fatos
 
-- 👨🏻‍💻 &nbsp; Meu projetos podem ser vistos [aqui](https://github.com/cafesao).
+- 👨🏻‍💻 &nbsp; Site [pessoal](http://my.cafesao.net/).
 - 👾 &nbsp; Fato curioso: Igualdade nem sempre é igual em Javascript.
 - 📫 &nbsp; Mande um e-mail: my@cafesao.net
 - 💙 &nbsp; Eu amo Games 👾, Gatos 🐱 e Estudar 💻.
