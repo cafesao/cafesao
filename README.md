@@ -5,12 +5,12 @@
 
 ### Sobre mim...
 
-Desenvolvedor Full-Cycle com 4 anos de experiência, especializado em criar soluções end-to-end eficientes e escaláveis.
+Desenvolvedor Full-Cycle com 4 anos de experiência, especializado em criar soluções dos mais diversos tipos.
 
-💻 Backend: NodeJS, Golang, Python  
-📀 Banco de dados: MongoDB, PostgreSQL, MySQL  
-📱 Frontend: React   
-♾️ DevOps: AWS (Code Pipeline, CloudFormation), CI/CD  
+💻 Backend: NodeJS, Golang, Python
+📀 Banco de dados: MongoDB, PostgreSQL, MySQL
+📱 Frontend: React
+♾️ DevOps: AWS (Code Pipeline, CloudFormation), CI/CD
 
 🚀 Destaques:
 - </>Desenvolvimento de APIs RESTful de alto desempenho
