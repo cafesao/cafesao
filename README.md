@@ -7,15 +7,15 @@
 
 ### Sobre mim...
 
-Desenvolvedor Full-Cycle com 4 anos de experiência, especializado em criar soluções dos mais diversos tipos.
+Desenvolvedor Full-Cycle, especializado em criar soluções dos mais diversos tipos. Seguindo arquiteturas como DDD e SOLID, em projetos com NestJS por exemplo.  
 
-💻 Backend: NodeJS, Golang, Python
-📀 Banco de dados: MongoDB, PostgreSQL, MySQL
-📱 Frontend: React
-♾️ DevOps: AWS (Code Pipeline, CloudFormation), CI/CD
+💻 Backend: NodeJS, Golang, Python  
+📀 Banco de dados: MongoDB, PostgreSQL, MySQL  
+📱 Frontend: React  
+♾️ DevOps: AWS (Code Pipeline, CloudFormation), CI/CD    
 
-🚀 Destaques:
-- </>Desenvolvimento de APIs RESTful de alto desempenho
-- 🧪 Experiência em testes automatizados
-- 🗽 Inglês intermediário
-- 🤝 Comprometimento e colaboração em equipe
+🚀 Destaques:  
+- </>Desenvolvimento de APIs RESTful de alto desempenho  
+- 🧪 Experiência em testes automatizados  
+- 🗽 Inglês intermediário  
+- 🤝 Comprometimento e colaboração em equipe  
